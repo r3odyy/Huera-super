@@ -1,0 +1,23 @@
+{
+  "bot": {
+    "token": "",
+    "clientId": "1556055265881755688",
+    "prefix": "$"
+  },
+
+  "server": {
+    "guildId": "1552353151644999790",
+    "ownerId": "1410955029824929892"
+  },
+
+  "roles": {
+    "highStaffRoleId": "1556400103781171290",
+    "staffRoleId": "1556400064727875664",
+    "memberRoleId": "1556400107983868036"
+  },
+
+  "voice": {
+    "voiceChannelId": "1554433378537971712",
+    "streamUrl": "https://www.twitch.tv/Huera"
+  }
+}

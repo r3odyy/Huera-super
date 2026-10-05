@@ -1,0 +1,24 @@
+{
+  "name": "super_huera.sys",
+  "version": "1.0.0",
+  "description": "Discord Ticket & Management System Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "v14",
+    "ticket",
+    "system"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "discord.js": "^14.27.0",
+    "ffmpeg-static": "^5.2.0",
+    "sodium-native": "^4.3.3"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "panels": {
+    "panel_1791150637855": {
+      "panelName": null,
+      "openCatId": "1554433303774498866",
+      "closedCatId": "1554433309805772930",
+      "logChannelId": "1554433340675981393",
+      "ticketImg": null
+    },
+    "default": {
+      "guildId": "1552353151644999790",
+      "channelId": "1554433340675981393",
+      "openCatId": "1554433303774498866",
+      "closedCatId": "1554433309805772930",
+      "logChannelId": "1554433340675981393",
+      "staffRoleId": "1556400064727875664",
+      "panelTitle": "Support",
+      "panelDesc": "wlnfwroilnf Wgergneog Egergnowfw ---------------------",
+      "panelImage": null,
+      "insideImage": null,
+      "insideWelcome": "gergkjberkj\n\nRfemrgnwe\n\n--------\n\nergmergfnwe"
+    }
+  },
+  "ticketCounter": 1
+}
